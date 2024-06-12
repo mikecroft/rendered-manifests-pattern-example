@@ -2,8 +2,8 @@ name: Release Helm Chart
 
 on:
   push:
-    branches:
-      - main
+    # branches:
+    #   - main
       # Publish semver tags as releases.
     tags: [ 'v*.*.*' ]
   release:
