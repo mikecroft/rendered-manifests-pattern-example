@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-world:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-15T09:58:32.936082997Z"
+    description: A Helm chart for Kubernetes
+    digest: b6523b15f043c80e43ed4ded787803f52f3e095e7702e0dfa3b2cccd741996d6
+    name: hello-world
+    type: application
+    urls:
+    - https://github.com/mikecroft/rendered-manifests-pattern-example/releases/download/hello-world-0.1.1/hello-world-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-07-15T09:58:32.936093637Z"
